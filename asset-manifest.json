@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/app-personajes/static/css/main.2bce10db.chunk.css",
+    "main.js": "/app-personajes/static/js/main.2e4cfc32.chunk.js",
+    "main.js.map": "/app-personajes/static/js/main.2e4cfc32.chunk.js.map",
+    "runtime-main.js": "/app-personajes/static/js/runtime-main.e9a5c8c8.js",
+    "runtime-main.js.map": "/app-personajes/static/js/runtime-main.e9a5c8c8.js.map",
+    "static/js/2.247806bb.chunk.js": "/app-personajes/static/js/2.247806bb.chunk.js",
+    "static/js/2.247806bb.chunk.js.map": "/app-personajes/static/js/2.247806bb.chunk.js.map",
+    "index.html": "/app-personajes/index.html",
+    "static/css/main.2bce10db.chunk.css.map": "/app-personajes/static/css/main.2bce10db.chunk.css.map",
+    "static/js/2.247806bb.chunk.js.LICENSE.txt": "/app-personajes/static/js/2.247806bb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/app-personajes/static/media/hero.6635be9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9a5c8c8.js",
+    "static/js/2.247806bb.chunk.js",
+    "static/css/main.2bce10db.chunk.css",
+    "static/js/main.2e4cfc32.chunk.js"
+  ]
+}
