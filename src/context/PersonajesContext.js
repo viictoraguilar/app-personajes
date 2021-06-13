@@ -14,7 +14,6 @@ const PersonajesProvider = (props) => {
   useEffect(() => {
     const obtenerPersonajes = async () => {
       const urlRick = 'https://rickandmortyapi.com/api/character'
-      // const url = 'www.thecocktaildb.com/api/json/v1/1/list.php?c=list'
       
       
       const personajes = await axios.get(urlRick)
